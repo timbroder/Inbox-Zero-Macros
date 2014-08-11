@@ -1,4 +1,4 @@
-Inbox-Zero
+Windows
 ==========
 
 This has been tested in Outlook 2010
@@ -8,3 +8,7 @@ This has been tested in Outlook 2010
 3. Add the 3 macros to your quick access toolbar
 4. Go back to inbox
 5. Press alt to see what alt hotkeys they bind to
+
+Mac
+==========
+
