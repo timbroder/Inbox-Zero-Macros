@@ -11,4 +11,4 @@ This has been tested in Outlook 2010
 
 Mac
 ==========
-
+Setup instructions can be found [here](http://www.matthewjmiller.net/howtos/mac-outlook-2011-move-to-folder-macro/)
