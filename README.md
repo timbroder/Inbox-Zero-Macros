@@ -1,5 +1,4 @@
 # Windows
-==========
 
 This has been tested in Outlook 2010
 
@@ -10,7 +9,6 @@ This has been tested in Outlook 2010
 5. Press alt to see what alt hotkeys they bind to
 
 # Mac
-==========
 
 ## Outlook 2010
 
