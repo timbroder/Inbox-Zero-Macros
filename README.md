@@ -1,4 +1,4 @@
-Windows
+# Windows
 ==========
 
 This has been tested in Outlook 2010
@@ -9,6 +9,13 @@ This has been tested in Outlook 2010
 4. Go back to inbox
 5. Press alt to see what alt hotkeys they bind to
 
-Mac
+# Mac
 ==========
+
+## Outlook 2010
+
 Setup instructions can be found [here](http://www.matthewjmiller.net/howtos/mac-outlook-2011-move-to-folder-macro/)
+
+## Outlook 2016
+
+*Coming Soon*
