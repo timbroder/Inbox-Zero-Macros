@@ -16,20 +16,4 @@ Setup instructions can be found [here](http://www.matthewjmiller.net/howtos/mac-
 
 ## Outlook 2016 Alfred Workflow
 
-**Beta**
-
-Workflow available [here](http://bit.ly/1MGbpik "here")
-
-![](https://farm1.staticflickr.com/552/20243183691_d0b1d8965c_b_d.jpg)
-
-### Inbox Zero Configuration
-
-Edit #1 and change the value of theExchangeAccount to your Exchange account. For me, this is "Alexanderinteractive"
-
-![](https://farm4.staticflickr.com/3742/20237415935_61381b01c1_b_d.jpg)
-
-### Omnifocus Configuration
-
-Edit #2 and set localUser to your user account on your Mac
-
-Credit to Rainer for the original [OmniFocus script](http://rainer.4950.net/2014/06/04/outlook-to-omnifocus2-take-12/ "OmniFocus script")
+*Coming Soon*
