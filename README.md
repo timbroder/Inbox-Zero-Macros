@@ -18,7 +18,7 @@ Setup instructions can be found [here](http://www.matthewjmiller.net/howtos/mac-
 
 **Beta**
 
-Workflow available [here](http://bit.ly/1MGbpik "here")
+Workflow available [here](https://github.com/broderboy/Inbox-Zero-Macros/raw/2016-alfred/mac/Alfred/Inbox%20Zero%20%26%20Omnifocus%20-%20Outlook%202016.alfredworkflow "here")
 
 ![](https://farm1.staticflickr.com/552/20243183691_d0b1d8965c_b_d.jpg)
 
